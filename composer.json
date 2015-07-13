@@ -1,0 +1,21 @@
+{
+    "name": "alexander-emelyanov/yii-hasoffers-client",
+    "description": "Wrapper for HasOffers API",
+    "type": "yii-extension",
+    "keywords": ["yii2", "Tracking"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Emelyanov",
+            "email": "alexander.emelyanov@outlook.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/alexander-emelyanov/yii-hasoffers-client/issues?state=open",
+        "source": "https://github.com/alexander-emelyanov/yii-hasoffers-client"
+    },
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "autoload": {"psr-4": {"AlexanderEmelyanov\\yii\\modules\\hasoffers\\": ""}}
+}
